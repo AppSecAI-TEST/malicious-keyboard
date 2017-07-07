@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Malicious Keyboard</string>
+    <string name="simple_ime">Malicious Keyboard</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
